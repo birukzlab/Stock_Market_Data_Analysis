@@ -1,0 +1,11 @@
+pandas
+seaborn
+numpy
+matplotlib
+seaborn
+scikit-learn
+flask
+yfinance
+jupyter
+
+#-e .
